@@ -48,7 +48,7 @@ msgstr "项目截止日期"
 #. module: project_deadline
 #: model:ir.model.fields,field_description:project_deadline.field_project_task__project_date_start
 msgid "Project Start Date"
-msgstr "开始日期"
+msgstr "项目开始日期"
 
 #. module: project_deadline
 #: model:ir.model,name:project_deadline.model_project_task
